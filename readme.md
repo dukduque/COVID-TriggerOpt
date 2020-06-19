@@ -1,8 +1,8 @@
 # Overview
-This software support the results in the paper: 
+This software supports the results in the paper: 
 https://www.medrxiv.org/content/10.1101/2020.04.29.20085134v1.article-metrics
 
-The algorithm simulate a covid-19 epidemic for Austin, Tx, and de determines triggers
+The algorithm simulates a  covid-19 epidemic for Austin, Tx, and determines triggers
 to enact social distancing orders to avoid exceeding hospital capacity. Chosen triggers
 attempt to minimize the total number of days that a city is in lock-down. 
 
